@@ -1,6 +1,6 @@
 # InnerSelf Cognitive
 
-Web refleksi dengan 32 pertanyaan **fungsi kognitif**, klasifikasi alasan menggunakan model ML lokal, dan penjelasan yang merujuk jawaban pengguna. Tidak menggunakan Gemini atau API AI eksternal.
+Web refleksi dengan 32 pertanyaan **fungsi kognitif**, klasifikasi alasan menggunakan model ML lokal, dan penjelasan yang merujuk jawaban pengguna.
 
 **Status: prototipe penelitian berbasis data sintetis.** Belum ada validasi pada responden nyata. Ini bukan tes MBTI resmi, diagnosis, atau pengukuran kemampuan otak. Skor dan susunan fungsi adalah hipotesis eksploratif, bukan kepastian kepribadian.
 
